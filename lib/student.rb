@@ -40,6 +40,8 @@ class Student
       FROM students
       WHERE grade IS 9 
     SQL
+    
+    
   end
   
   def self.students_below_12th_grade
