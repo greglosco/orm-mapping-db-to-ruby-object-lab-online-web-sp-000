@@ -42,7 +42,7 @@ class Student
     
   end
   
-  def self.first_X_students_in_grade_10(number_of_students_from_grade_10)
+  def self.first_X_students_in_grade_10(number_of_students)
     
   end
   
